@@ -1,0 +1,7 @@
+﻿TestTask.Tests/bin
+.vs/TestTask/config
+.vs/TestTask/DesignTimeBuild
+.vs/TestTask/v16
+TestTask/bin
+TestTask/obj
+TestTask.Tests/obj
